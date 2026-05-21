@@ -24,6 +24,9 @@ project:
     - title: Notebooks
       children:
             - file: >-
+                heal-reuse-examples/gad2_demographics_example/Notebooks/reuse_example.ipynb
+              title: Socioeconomic Predictors of Anxiety
+            - file: >-
                 containers/HEAL-notebooks/combined_tutorials/HDP00258_BACPACSyntheticDataEDA.ipynb
             - file: >-
                 containers/HEAL-notebooks/combined_tutorials/HDP00384_HighResSpinalCordStimulation_NeuropathicPain.ipynb

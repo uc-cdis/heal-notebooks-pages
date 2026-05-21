@@ -1,3 +1,6 @@
 [submodule "containers"]
 	path = containers
 	url = https://github.com/uc-cdis/containers.git
+[submodule "heal-reuse-examples"]
+	path = heal-reuse-examples
+	url = https://github.com/pschumm/heal-reuse-examples.git
